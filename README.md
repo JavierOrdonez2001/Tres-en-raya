@@ -157,12 +157,6 @@ Los archivos optimizados se generan en la carpeta `dist/` y están listos para d
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 👨‍💻 Autor
-
-**Javier** - Desarrollador Full Stack
-
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
 
 ## 🙏 Agradecimientos
 
